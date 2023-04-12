@@ -1,3 +1,4 @@
+#Tejveer singh 22071721
 #function and nested loop
 a=float(input("Starting number of organism:"))
 # average daily percentage of the Amazon rainforest.

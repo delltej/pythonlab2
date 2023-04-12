@@ -4,7 +4,7 @@ b = int(input("Enter Number: "))
 i = 0
 while (i < b):
   #append is used for getting the position of specific number
-  a.append(int(input("Enter Element")))
+  a.append(int(input("Enter Element : ")))
   i = i + 1
 print(a)
 
